@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Tristan Parmerlee
+title: Tristan Sand
 description: "Personal Academic Site"
-keywords: tristan, parmerlee, academic, astronomy, astrophysics, physics, research, ciera, reu, loyola, luc
+keywords: tristan, parmerlee, sand, academic, astronomy, astrophysics, physics, research, ciera, reu, loyola, luc
 baseurl:  '' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://tparmerlee.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://tristan-sand.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 #
@@ -36,11 +36,11 @@ lang: en
 permalink: /blog/:categories/:title/
 
 social:
-  name: Tristan Parmerlee
+  name: Tristan Sand
   links:
     - https://www.facebook.com/profile.php?id=100080789220410
     - https://www.linkedin.com/in/tristanparmerlee/
-    - https://github.com/tparmerlee
+    - https://github.com/tristan-sand
     - https://orcid.org/my-orcid?orcid=0009-0004-5934-9650
 
 #twitter:
@@ -58,17 +58,17 @@ webmaster_verifications:
 ####################################
 #
 author:  # change following line to your infomation.
-  name: Tristan Parmerlee  # Be used at blog posts' author.
+  name: Tristan Sand # Be used at blog posts' author.
   first_name: Tristan  # Be used at index page about me section.
-  last_name: Parmerlee  # Be used at index page about me section.
+  last_name: Sand  # Be used at index page about me section.
   avatar: /static/assets/img/landing/GradPicsHeadshotSquare.jpg  # upload your avatar at directory and edit it.
-  github_username: tparmerlee  # Leave blank if you don't have now
-  linkedin_id: tristanparmerlee # Leave blank if you don't have now
+  github_username: tristan-sand  # Leave blank if you don't have now
+  linkedin_id: tristansand # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   orcid: https://orcid.org/0009-0004-5934-9650
   twitter: 
-  email: tparmerlee@luc.edu  # Leave blank if you don't have now
-  cv: https://tparmerlee.github.io/static/assets/cv/Parmerlee_Tristan_CV.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
+  email: tristan.sand@northwestern.edu  # Leave blank if you don't have now
+  cv: https://tristan-sand.github.io/static/assets/cv/Parmerlee_Tristan_CV.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
 
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
