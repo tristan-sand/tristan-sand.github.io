@@ -2,24 +2,13 @@
 layout: compress
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html itemscope itemtype="http://schema.org/Person" lang="en">
+  {% if page.title != 'Tristan Sand' %} {% include head.html %} {% else %} {%
+  include index_head.html %} {% endif %}
 
-    {% if page.title != 'Tristan Parmerlee' %}
-        {% include head.html %}
-    {% else %}
-        {% include index_head.html %}
-    {% endif %}
-
-<body id="page-top" class="landing-page">
-
-    {% if page.title != 'Tristan Parmerlee' %}
-        {% include blog_header.html %}
-    {% endif %}
-
-    {{ content }}
-
-{% include footer.html %}   
-
-</body>
+  <body id="page-top" class="landing-page">
+    {% if page.title != 'Tristan Sand' %} {% include blog_header.html %} {%
+    endif %} {{ content }} {% include footer.html %}
+  </body>
 </html>
