@@ -77,7 +77,7 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: fab fa-python
     - name: fab fa-java
-  desc: "I am 4th year undergraduate student at Loyola University Chicago, majoring in Physics with Computer Science and Mathematics. My research interests are in astrophysics, specifically theoretical and computational work. I hope to go to graduate school in the near future for a PhD."
+  desc: "I am a PhD Student at Northwestern University. I graduated summa cum laude from Loyola University Chicago, majoring in Physics with Computer Science and Mathematics. My research interests are in theoretical and computational astrophysics with a focus on stellar collisions and machine learning applications."
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
