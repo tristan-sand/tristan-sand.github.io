@@ -1,6 +1,24 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Northwestern University
+    i18n: integra
+  desc:
+    detail: Evanston, IL
+    i18n: integra_desc
+  date:
+    detail: September 2026 - Present
+    i18n: integra_date
+  job:
+    detail: PhD Student in the Northwestern Department of Physics & Astronomy, working in Professor Rasio's research group.
+    i18n: integra_job
+  image:
+    detail:
+    il8n: integra_image
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: Northwestern CIERA REU
     i18n: integra
   desc:
@@ -34,8 +52,8 @@
     detail:
     il8n: integra_image
   icon: fa-plus-square
-  present: true
-  
+  present: false
+
 - name:
     detail: Drake University
     i18n: integra
@@ -53,4 +71,3 @@
     il8n: integra_image
   icon: fa-plus-square
   present: false
-
